@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muriatec, from SJTU'23, majoring in Automation.
+- 👋 Hi, I’m Chunlin Chen (or Charles), from SJTU'23, majoring in Automation.
 
 <!---
 muriatec/muriatec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
