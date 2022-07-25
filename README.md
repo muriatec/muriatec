@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muriatec, a senior student majoring in Automation at SJTU.
+- 👋 Hi, I’m @muriatec, from SJTU'23, majoring in Automation.
 
 <!---
 muriatec/muriatec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
