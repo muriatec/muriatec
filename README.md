@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chunlin Chen (or Charles), from SJTU'23, majoring in Automation.
+- 👋 Hi, I’m Chunlin Chen (or Charles), now a master's student majoring in ECE at UC San Diego.
 
 <!---
 muriatec/muriatec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
